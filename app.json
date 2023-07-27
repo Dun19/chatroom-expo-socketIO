@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5f4252a2-dce8-4093-93ae-b68ffaa5f876"
+      }
+    },
+    "owner": "duncan_ex"
   }
 }
